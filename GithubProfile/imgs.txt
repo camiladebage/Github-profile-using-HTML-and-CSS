@@ -1,0 +1,19 @@
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117) 
+![CSharp](https://img.shields.io/badge/-Csharp-0D1117?style=for-the-badge&logo=CSHARP&labelColor=0D1117) 
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117) 
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117) 
+![JavaScript](https://img.shields.io/badge/-Java%20Script-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117) 
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117) 
+![Xamarin](https://img.shields.io/badge/-Xamarin-0D1117?style=for-the-badge&logo=xamarin&labelColor=0D1117)
+
+## Ferramentas que já utilizei: 
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![Azure Devops](https://img.shields.io/badge/Azure%20Devops-0D1117?style=for-the-badge&logo=azure-devops&labelColor=0D1117)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=android-studio&labelColor=0D1117)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=power-bi&labelColor=0D1117)&nbsp;
+![Power Apps](https://img.shields.io/badge/-Power%20Apps-0D1117?style=for-the-badge&logo=power-apps&labelColor=0D1117)&nbsp;
+![Power Automate](https://img.shields.io/badge/-Power%20Automate-0D1117?style=for-the-badge&logo=power-automate&labelColor=0D1117)&nbsp;
+![File Zilla](https://img.shields.io/badge/-FileZilla-0D1117?style=for-the-badge&logo=filezilla&labelColor=0D1117)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
